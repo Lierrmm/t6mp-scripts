@@ -35,6 +35,10 @@ _tacticalinsertion.gsc: t6r\data\maps\mp
 _empgrenade.gsc: t6r\data\maps\mp
 ```
 
+4. Running plutoniums server bat file should show it injecting the gsc files
+
+5. If successful, the server should startup with no issues.
+
 ## License
 
 This project is covered by the MIT license.
